@@ -1,0 +1,53 @@
+
+=================
+Validation Report
+=================
+
+Problems
+========
+
+EX2 - invalid type found
+------------------------
+:column: 4
+:field: type
+:record: ['07/06/2017', '4:24 pm', "Freecodecamp shared Billy Le's post.", 'Public', '688', '62', 'Boost Post']
+:row: 70
+:value: Public
+
+EX4 - reactions should be an integer
+------------------------------------
+:column: 7
+:field: reactions
+:record: ['07/06/2017', '4:24 pm', "Freecodecamp shared Billy Le's post.", 'Public', '688', '62', 'Boost Post']
+:row: 70
+:value: Boost Post
+
+EX2 - invalid type found
+------------------------
+:column: 4
+:field: type
+:record: ['02/08/2017', '10:40 am', "Quincy just finished live-interviewing front end developer Scott Domes who recently published a popular article explaining CSS Flexbox using animated gifs. Here's the video: https://www.youtube.com/watch?v=yMiCCtdUOgM", 'Status', '3527', '129', '40']
+:row: 315
+:value: Status
+
+EX2 - invalid type found
+------------------------
+:column: 4
+:field: type
+:record: ['12/05/2016', '10:26 am', 'Hey parents and teachers the #HourOfCode starts today! Here are our new kid-friendly front end coding challenges: http://www.freecodecamp.com/hour-of-code', 'Status', '6431', '389', '106']
+:row: 377
+:value: Status
+
+EX2 - invalid type found
+------------------------
+:column: 4
+:field: type
+:record: ['11/28/2016', '7:53 am', "If you plan to check out Amazon's Cyber Monday deals use this link to support our community while you shop: http://amzn.to/2fWESrn", 'Status', '5371', '337', '41']
+:row: 385
+:value: Status
+
+Summary
+=======
+Found 5 problems in total.
+:EX2: 4
+:EX4: 1
